@@ -16,7 +16,7 @@ while true do
         for i, v in pairs(users) do
             print("user ".. number)
             print("username: ".. v.usernamet)
-            print("passwoed: ".. v.passwordt)
+            print("password: ".. v.passwordt)
             number = number + 1
         end
     end
