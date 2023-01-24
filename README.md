@@ -1,5 +1,7 @@
 # LUA-UserSystem
-a working user system for lua
+a working user system for lua 
+
+This one does not save im working on one that writes the data to a file so it works and saves!
 
 -----------------------------------
 
